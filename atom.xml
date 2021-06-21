@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>blog</title>
+  <title>luyun&#39;s blog</title>
   
-  <subtitle>this is a test</subtitle>
+  <subtitle>记录</subtitle>
   <link href="http://luyun001122.top/atom.xml" rel="self"/>
   
   <link href="http://luyun001122.top/"/>
