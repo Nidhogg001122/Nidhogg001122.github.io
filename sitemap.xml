@@ -46,7 +46,14 @@
 
   
   <url>
-    <loc>http://luyun001122.top/tags/Mirai%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://luyun001122.top/tags/Mirai/</loc>
+    <lastmod>2021-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://luyun001122.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
