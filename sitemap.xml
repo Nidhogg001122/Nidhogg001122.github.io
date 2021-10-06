@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>http://luyun001122.top/2021/07/04/bomb/</loc>
-    
-    <lastmod>2021-07-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://luyun001122.top/2021/06/23/Mirai%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2021-06-23</lastmod>
@@ -60,50 +53,36 @@
 
   <url>
     <loc>http://luyun001122.top/</loc>
-    <lastmod>2021-08-10</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://luyun001122.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C/</loc>
-    <lastmod>2021-08-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://luyun001122.top/tags/%E6%B1%87%E7%BC%96/</loc>
-    <lastmod>2021-08-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://luyun001122.top/tags/LeetCode/</loc>
-    <lastmod>2021-08-10</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://luyun001122.top/tags/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2021-08-10</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://luyun001122.top/tags/Mirai/</loc>
-    <lastmod>2021-08-10</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://luyun001122.top/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-08-10</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -111,22 +90,15 @@
 
   
   <url>
-    <loc>http://luyun001122.top/categories/CSAPP/</loc>
-    <lastmod>2021-08-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://luyun001122.top/categories/LeetCode/</loc>
-    <lastmod>2021-08-10</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://luyun001122.top/categories/Mirai/</loc>
-    <lastmod>2021-08-10</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
